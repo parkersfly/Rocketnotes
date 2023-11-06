@@ -5,7 +5,7 @@ Projeto desenvolvido no explorer - curso profissionalizante promovido pela Rocke
 </p>
 
 <p align="center">
-  <img alt="rocketnotes" src=".github/capa.png" width="100%">
+  <img alt="rocketnotes" src="/github/capa.png" width="100%">
 </p>
 
 ## 🚀 Visão Geral
