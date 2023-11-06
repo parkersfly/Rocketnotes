@@ -17,10 +17,25 @@ Recursos Principais:
 
 - Cadastro de usuários em um banco de dados
 - Atualizar dados do usuário
-- Atualuzar foto do perfil
+- Atualizar foto do perfil
 - Criar e deletar notas
 - Filtrar notas por tag
 - Buscar notas
+
+
+## Stack utilizada
+
+**Front-end:** 
+- HTML
+- CSS
+- JavaScript
+- React
+- Styled-components
+
+**Back-end:** 
+- Node
+- Express
+- knex
 
 ## 💻 Instalação
 
